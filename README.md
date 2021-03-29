@@ -37,4 +37,4 @@ This work is part of the Fermentation-Based Biomanufacturing Initiative (http://
 
 Parts of the code stem from:
 - Sin et al., 2010, Assessing reliability of cellulose hydrolysis models to support biofuel process design—Identifiability and uncertainty analysis, *Computers & Chemical Engineering*, Vol. 34 (9), pp. 1385-1392. https://doi.org/10.1016/j.compchemeng.2010.02.012
-- Sin and Gernaey, 2016, Data Handling and Parameter Estimation, in *Experimental methods in wastewater treatment*, pp. 201-234
+- Sin and Gernaey, 2016, Data Handling and Parameter Estimation, in *Experimental methods in wastewater treatment*, pp. 201-234, ISBN: 9781780404745.
