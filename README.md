@@ -1,11 +1,6 @@
-# Pretreatment-Model
+# Pretreatment Model
 ## Overview
-Synergistic optimization-based framework for the conceptual design of bioprocesses
-
-S3O facilitates & expedites conceptual process design for bioprocesses by synergistically:
-- selecting product(s), feedstock and process unit operations in a bottom-up manner
-- performing surrogate-assisted superstructure optimization to determine candidate process topologies
-- performing simulation-based optimization for consolidating an optimal process design for the candidates under uncertainty
+Different data-driven and knowledge-driven models for the dilute acid pretreatment of wheat straw
 
 ### Employment
 The repository contains the following folders:
@@ -39,3 +34,7 @@ Nikolaus Vollmer (nikov@kt.dtu.dk) - PROSYS Research Center, Department of Chemi
 
 ### Acknowledgements
 This work is part of the Fermentation-Based Biomanufacturing Initiative (http://www.fbm.dtu.dk) at the Technical University of Denmark and received funding by the Novo Nordisk Foundation (Grant no. NNF17SA0031362)
+
+Parts of the code stem from:
+- Sin et al., 2010, Assessing reliability of cellulose hydrolysis models to support biofuel process design—Identifiability and uncertainty analysis, *Computers & Chemical Engineering*, Vol. 34 (9), pp. 1385-1392. https://doi.org/10.1016/j.compchemeng.2010.02.012
+- Sin and Gernaey, 2016, Data Handling and Parameter Estimation, in *Experimental methods in wastewater treatment*, pp. 201-234
